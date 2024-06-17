@@ -1,4 +1,4 @@
-# ThotamchettyRanjith_Datahack
+#AjithBabu_Datahack
 This is a machine learning algorithm developed for Summer Analytics Hackathon 
 Problem description
  Your goal is to predict how likely individuals are to receive their xyz and seasonal flu
